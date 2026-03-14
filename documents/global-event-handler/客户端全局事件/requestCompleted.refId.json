@@ -1,0 +1,18 @@
+{
+  "PMSBQ9LE" : "HttpRequest",
+  "EPM3DYFW" : "request",
+  "CLHTTPRS" : "ServiceResponse",
+  "MNTNOAV7" : "response",
+  "ABCDG3XY" : "requestURL",
+  "CLHRS001" : "status",
+  "CLHRS004" : "errorType",
+  "CLHRS002" : "headers",
+  "Get" : "Get",
+  "IsNullOrEmpty" : "IsNullOrEmpty",
+  "S67KO2XD" : "登录页",
+  "ZLTSCI1Q" : "redirect",
+  "ZXCVB2NM" : "queryParams",
+  "JEHA1YO0" : "401无权限页面",
+  "CLHRS005" : "errorMessage",
+  "BD4JXROQ" : "404未发现页面"
+}
