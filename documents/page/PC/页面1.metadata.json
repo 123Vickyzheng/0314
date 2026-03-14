@@ -3,7 +3,19 @@
   "name" : "页面1",
   "resourceType" : "page",
   "description" : "",
-  "variables" : [ ],
+  "variables" : [ {
+    "id" : "PIU1YMM8",
+    "name" : "参数1",
+    "defaultValue" : {
+      "type" : "expression",
+      "literal" : ""
+    },
+    "dataType" : {
+      "typeId" : "String"
+    },
+    "description" : "",
+    "isParameter" : true
+  } ],
   "logics" : [ ],
   "eventListeners" : [ ],
   "elementEventListeners" : [ ],
