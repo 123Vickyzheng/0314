@@ -247,4 +247,16 @@
   "resourcePaths" : [ "documents/logic/客户端逻辑/逻辑1.json", "documents/logic/客户端逻辑/逻辑1.metadata.json", "documents/logic/客户端逻辑/逻辑1.refId.json", "documents/ref-object/GOAW990Z.json", "documents/ref-object/GOAW990Z.metadata.json" ],
   "resourceType" : "Document",
   "resourceId" : "GOAW990Z"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "计划任务/计划任务1",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-14T10:22:07.0770382Z",
+  "resourcePaths" : [ "documents/logic/计划任务/计划任务1.json", "documents/logic/计划任务/计划任务1.metadata.json", "documents/logic/计划任务/计划任务1.refId.json", "documents/ref-object/S19E6QK4.json", "documents/ref-object/S19E6QK4.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "S19E6QK4"
 } ]
