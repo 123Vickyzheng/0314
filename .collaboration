@@ -226,49 +226,25 @@
 }, {
   "moduleType" : "logic",
   "moduleName" : "服务端逻辑/逻辑1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-14T10:21:50.107564Z",
-  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑1.json", "documents/logic/服务端逻辑/逻辑1.metadata.json", "documents/logic/服务端逻辑/逻辑1.refId.json", "documents/ref-object/PBHFBQ7B.json", "documents/ref-object/PBHFBQ7B.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "PBHFBQ7B"
 }, {
   "moduleType" : "logic",
   "moduleName" : "客户端逻辑/逻辑1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-14T10:21:57.4979941Z",
-  "resourcePaths" : [ "documents/logic/客户端逻辑/逻辑1.json", "documents/logic/客户端逻辑/逻辑1.metadata.json", "documents/logic/客户端逻辑/逻辑1.refId.json", "documents/ref-object/GOAW990Z.json", "documents/ref-object/GOAW990Z.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "GOAW990Z"
 }, {
   "moduleType" : "logic",
   "moduleName" : "计划任务/计划任务1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-14T10:22:07.0770382Z",
-  "resourcePaths" : [ "documents/logic/计划任务/计划任务1.json", "documents/logic/计划任务/计划任务1.metadata.json", "documents/logic/计划任务/计划任务1.refId.json", "documents/ref-object/S19E6QK4.json", "documents/ref-object/S19E6QK4.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "S19E6QK4"
 }, {
   "moduleType" : "page",
   "moduleName" : "移动端/页面1",
-  "state" : "New",
-  "lockedBy" : {
-    "username" : "vickyzheng",
-    "email" : "vicky.zheng@developertools.com"
-  },
-  "lockDateTime" : "2026-03-14T10:22:56.257214Z",
-  "resourcePaths" : [ "documents/page/移动端/页面1.json", "documents/page/移动端/页面1.metadata.json", "documents/page/移动端/页面1.refId.json", "documents/ref-object/LQV5BK4B.json", "documents/ref-object/LQV5BK4B.metadata.json" ],
+  "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "LQV5BK4B"
 } ]
