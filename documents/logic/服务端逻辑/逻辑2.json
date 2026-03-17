@@ -1,0 +1,42 @@
+{
+  "id" : "G6BCJ0AN",
+  "name" : "逻辑2",
+  "variables" : [ ],
+  "parameters" : [ ],
+  "returnValues" : [ ],
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "diagram" : {
+    "nodes" : [ {
+      "id" : "ANDROWRX",
+      "name" : "开始",
+      "pluginName" : "",
+      "identifier" : "",
+      "attributes" : {
+        "position" : {
+          "x" : 80,
+          "y" : 200
+        }
+      },
+      "isStartPoint" : true
+    }, {
+      "id" : "O4Y90OYE",
+      "name" : "结束",
+      "pluginName" : "logic-core",
+      "identifier" : "return",
+      "attributes" : {
+        "position" : {
+          "x" : 800,
+          "y" : 200
+        }
+      }
+    } ],
+    "edges" : [ {
+      "id" : "A7WQBH2N",
+      "sourceId" : "ANDROWRX",
+      "targetId" : "O4Y90OYE",
+      "sourcePosition" : "right",
+      "targetPosition" : "left"
+    } ]
+  }
+}

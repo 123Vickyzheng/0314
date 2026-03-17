@@ -1,0 +1,9 @@
+{
+  "id" : "G6BCJ0AN",
+  "name" : "逻辑2",
+  "enableTransaction" : true,
+  "allowExpressionCall" : false,
+  "parameters" : [ ],
+  "variables" : [ ],
+  "returnValues" : [ ]
+}
