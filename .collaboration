@@ -247,4 +247,16 @@
   "state" : "Unlocked",
   "resourceType" : "Document",
   "resourceId" : "LQV5BK4B"
+}, {
+  "moduleType" : "logic",
+  "moduleName" : "服务端逻辑/逻辑2",
+  "state" : "New",
+  "lockedBy" : {
+    "username" : "vickyzheng",
+    "email" : "vicky.zheng@developertools.com"
+  },
+  "lockDateTime" : "2026-03-17T06:01:18.7238363Z",
+  "resourcePaths" : [ "documents/logic/服务端逻辑/逻辑2.json", "documents/logic/服务端逻辑/逻辑2.metadata.json", "documents/logic/服务端逻辑/逻辑2.refId.json", "documents/ref-object/G6BCJ0AN.json", "documents/ref-object/G6BCJ0AN.metadata.json" ],
+  "resourceType" : "Document",
+  "resourceId" : "G6BCJ0AN"
 } ]
